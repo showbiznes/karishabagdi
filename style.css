@@ -543,6 +543,7 @@ em {
   font-weight: 500;
   color: rgba(255, 255, 255, 0.85);
   letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 /* ── HERO NARRATIVE COLUMN ── */
